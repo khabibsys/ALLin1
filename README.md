@@ -1,4 +1,4 @@
-# ALLin1!
+# ALLin1! (password- 0000)
 
 
 # 🛠️ ALLin1 - Universal Windows Troubleshooter
